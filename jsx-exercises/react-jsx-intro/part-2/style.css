@@ -1,0 +1,18 @@
+.tweet {
+    border: 2px;
+    border-color: cyan;
+    margin: 15px 20%;
+    padding: 15px 20%;
+}
+
+.username {
+    color: slateblue;
+    display: inline-block;
+    margin: 5px;
+}
+
+.username {
+    color: blueviolet;
+    display: inline-block;
+    margin: 5px;
+}
